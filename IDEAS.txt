@@ -1,0 +1,5 @@
+from img style transfer:
+	- we wanna do rate of change transfer:::: we use the cnn structure to capture diff levels of image representations... ok but iska kaam hai?
+	- ok so we need the combination part. when they say k they combine the content of one arbitrary image with the appearance of a diff artwork
+		- get this combination part because we need to 
+	- fuck this we aint combining we are transforming.
